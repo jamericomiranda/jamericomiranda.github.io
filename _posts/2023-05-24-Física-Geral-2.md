@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Curso Eletromagnetismo</title>
+    <title>Curso de Física 2</title>
 
     <link rel="stylesheet" href="/style.css" />
 
@@ -52,14 +52,14 @@
         </li>
         <li>
           Bibliografia complementar
-          <a href="https://drive.google.com/file/d/1YYtdHzfkQmAyEDf2PjbF-oT9UNKFNAbx/view?usp=sharing" target="_blank" type="application/pdf">(pdf)</a>
+          <a href="https://drive.google.com/file/d/1AXMAePk7RLEeEngeg3eRetzxBEGLwURy/view?usp=sharing" target="_blank" type="application/pdf">(pdf)</a>
         </li>
-        <li>Notas de Aula</li>
+        <li>Notas de aula</li>
         <ul>
           <li>
             Aula 01
             <a
-              href="https://drive.google.com/file/d/1BbfPJS4_l5wegDodOeb77xSTmFtlfvbi/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Jhnq9IjkN9Y-hmzgBmDw3YLYJQtVIhMM/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -69,7 +69,7 @@
           <li>
             Aula 02
             <a
-              href="https://drive.google.com/file/d/1-yxikKHC-Z7E31CpKaEh4ET0G40aj0S7/view?usp=sharing"
+              href="https://drive.google.com/file/d/11wm70JvtSsIjN9_1eiX6Pax9voHdD7KA/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -79,7 +79,7 @@
           <li>
             Aula 03
             <a
-              href="https://drive.google.com/file/d/17NpPnhdvZxzcS2gQKgyySHucxIwZJ6gn/view?usp=sharing"
+              href="https://drive.google.com/file/d/1hoQgcM5zZzO9euctv_F4El-p9doqyzpp/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -89,7 +89,7 @@
           <li>
             Aula 04
             <a
-              href="https://drive.google.com/file/d/1FiDHZPgFLEEcYzCsDQMxB3VfcU7_TIXr/view?usp=sharing"
+              href="https://drive.google.com/file/d/1hpRQDE8tA-8SjA-sB7tv3H_9uX7pGofT/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -99,7 +99,7 @@
           <li>
             Aula 05
             <a
-              href="https://drive.google.com/file/d/1m3-SSIPbkIISoYXGHgHitzCG64RrTXYX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1mcSfO48ob5cdrGe6K4yiaUOkPy5RXQ3R/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -109,7 +109,7 @@
           <li>
             Aula 06
             <a
-              href="https://drive.google.com/file/d/1fM2WK5L7A3cZwO_imV_Gx2QB7zNRQtMo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1KjWZuRMjWycriv3YAoIdbqtkltLTm858/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -119,7 +119,7 @@
           <li>
             Aula 07
             <a
-              href="https://drive.google.com/file/d/1KxV_324kvZ5N25x85FXOp6NkTSlE6-7y/view?usp=sharing"
+              href="https://drive.google.com/file/d/1-geemyV4oMLNU6lftgbN1MgvvTbUZvTr/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -129,7 +129,7 @@
           <li>
             Aula 08
             <a
-              href="https://drive.google.com/file/d/1vbwmWf-RZfti5Qoehb9H5bfGaPwHwJW3/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ugX2CQm6AEESM76MAqh0Tr3ta2rqgMEb/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -139,7 +139,7 @@
           <li>
             Aula 09
             <a
-              href="https://drive.google.com/file/d/1jSy98Mhs5OFN9M7056jfTSi3VJgLoHoe/view?usp=sharing"
+              href="https://drive.google.com/file/d/137Olkd7esKFP1d5wG5ahHxVMfaeLh5sh/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -149,7 +149,7 @@
           <li>
             Aula 10
             <a
-              href="https://drive.google.com/file/d/1rqyuw9o6wDkd_jB9RM0dIPjA2P3WanHQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1xhyezvbeIFvEIoTNnSEhBs15Hcq4ZOd5/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -159,7 +159,7 @@
           <li>
             Aula 11
             <a
-              href="https://drive.google.com/file/d/1BpJ-ji6-6GX79CY6iwpt1p4jIwuCQ3y5/view?usp=sharing"
+              href="https://drive.google.com/file/d/1KeKDq7iXAhy_IcmbORZTHw9pO-mPW9z-/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -169,7 +169,7 @@
           <li>
             Aula 12
             <a
-              href="https://drive.google.com/file/d/1DtKvqv4FYera7PVPaqaXqP4QR_pC8hjK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1PMoNDIYwDhMtzROfKgDjLlATrOi5kw2g/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -179,7 +179,7 @@
           <li>
             Aula 13
             <a
-              href="https://drive.google.com/file/d/1Y23h1ArLgallGSoCdKnlkF2l-GdCyY4T/view?usp=sharing"
+              href="https://drive.google.com/file/d/120PvUHvmAztQvMBggC14ARBwoxF9xPcO/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -189,7 +189,7 @@
           <li>
             Aula 14
             <a
-              href="https://drive.google.com/file/d/1KTm7kjg6exCAc9ta5hzoJP7F-YS44WOX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Gwywy3m_oDL-VlDpONZ7ZqSLINx_gzN2/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -199,7 +199,7 @@
           <li>
             Aula 15
             <a
-              href="https://drive.google.com/file/d/1X16MHq_5hSfmlWTlgEjyexIpxq3DsUtg/view?usp=sharing"
+              href="https://drive.google.com/file/d/1c_Zf2ZJZQj6H2E9eg_Xpg9hHDjJLV6_Z/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -209,7 +209,7 @@
           <li>
             Aula 16
             <a
-              href="https://drive.google.com/file/d/18YxyeGyNuTzDf_h_xd2-DKCHcnfBL0F1/view?usp=sharing"
+              href="https://drive.google.com/file/d/1t3mIV93q_F-To0QU6BDfhVAgfmhI28la/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -219,7 +219,7 @@
           <li>
             Aula 17
             <a
-              href="https://drive.google.com/file/d/1hdAWD8EPMl_FNNVlyI6QJwQ4a0FBl9Ra/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bhBZOs8z6018MOBtpXz-TEMnq-tDwjsl/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -229,7 +229,7 @@
           <li>
             Aula 18
             <a
-              href="https://drive.google.com/file/d/1NcqH37339KudA9gDzgmPP_9QZc_HFG1x/view?usp=sharing"
+              href="https://drive.google.com/file/d/18yoj72T85YMXrKpZWDF_RmBaFVV-K6hp/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -239,7 +239,7 @@
           <li>
             Aula 19
             <a
-              href="https://drive.google.com/file/d/150emaUwCuKVI3iiJi_N9qjEd6t7Mr_b2/view?usp=sharing"
+              href="https://drive.google.com/file/d/18ph3mCK-W-YthnbZY0HGcd1edMfo4_R1/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -249,7 +249,7 @@
           <li>
             Aula 20
             <a
-              href="https://drive.google.com/file/d/17j21KqpzUzbum6Dtsyh_SNDnI51AWSBA/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bQsuuHmnvvX6QRFguFRtHppu0XNhsk0u/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -259,7 +259,7 @@
           <li>
             Aula 21
             <a
-              href="https://drive.google.com/file/d/1s0B8_EhVBDBUuLL7ZLe0JFOiAz23zqDo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EMIQcfeO4Gbi3plIyWT6VGAWkwdwhkRU/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -269,7 +269,7 @@
           <li>
             Aula 22
             <a
-              href="https://drive.google.com/file/d/1GeY4NFjR8sDpLAVcTL2hC-JA_D4xF0V9/view?usp=sharing"
+              href="https://drive.google.com/file/d/14jPN6jucpJPs1kJE5jBEQzg08bt87GsX/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -279,7 +279,7 @@
           <li>
             Aula 23
             <a
-              href="https://drive.google.com/file/d/1nivBwxvCK3Zi0Kzvkf0RFcFKC4Sg_GFX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1dXmpXfzgIy80HpKH7YEGA4FQlmisiiKB/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -289,7 +289,7 @@
           <li>
             Aula 24
             <a
-              href="https://drive.google.com/file/d/1VId4kahD6g0e374RN1LUs5bsnlKE_WTI/view?usp=sharing"
+              href="https://drive.google.com/file/d/1pIM5u1ONCbcZ0UO-AwRYrRaQU4KkbGvv/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -299,7 +299,7 @@
           <li>
             Aula 25
             <a
-              href="https://drive.google.com/file/d/1UepK9VztK9bvYM0QumG0Tpi8ySPM43dD/view?usp=sharing"
+              href="https://drive.google.com/file/d/1kzMAO_CDEI4ZLRFSUpgZTo49kCRFpn62/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -309,7 +309,7 @@
           <li>
             Aula 26
             <a
-              href="https://drive.google.com/file/d/1rICNswNKHmUGiCwigsZXx8Bu0uYb55gV/view?usp=sharing"
+              href="https://drive.google.com/file/d/1RvI0N_3wHE29TSRl5ckoBfebZcDW1lcc/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -319,7 +319,7 @@
           <li>
             Aula 27
             <a
-              href="https://drive.google.com/file/d/1efM6UBi7qt_Eq6aH3bfofbyS4dQze5Ft/view?usp=sharing"
+              href="https://drive.google.com/file/d/1rGbyATm-peixYRDFHGQ1glP21MuXm4uG/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -329,7 +329,240 @@
           <li>
             Aula 28
             <a
-              href="https://drive.google.com/file/d/18OAhMgGr290gp9Xxl8w6S3jMPxxH_If3/view?usp=sharing"
+              href="https://drive.google.com/file/d/1BpOPE5FMxK1glXpH73s6v39b-8g0D0ZX/view?usp=sharing"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+        </ul>
+
+        <li>Transparências powerpoint de algumas das aulas</li>
+        <ul>
+          <li>
+            Aula 03
+            <a
+              href="https://docs.google.com/presentation/d/1z7T0qXov07YTX7sB3E-QRAp7oAu9dR12/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 06
+            <a
+              href="https://docs.google.com/presentation/d/1_UcALuVGiV-UX-eCRSawVsIBGjT3kvsR/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 07
+            <a
+              href="https://docs.google.com/presentation/d/1REISRX2a9dt76wby0hn_ntIRVl_nI4-1/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 08
+            <a
+              href="https://docs.google.com/presentation/d/1jOddwBSxs5gy9h7YvwtIOJjva1hYAZVH/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 09
+            <a
+              href="https://docs.google.com/presentation/d/1yL3IdLbwQ-JGLyK2DHsWbzHML_3nQXT5/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 10
+            <a
+              href="https://docs.google.com/presentation/d/1uf413XRcipV5bqX_EDy0-RMtcMGhsltl/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 11
+            <a
+              href="https://docs.google.com/presentation/d/1WykJ7pTc59RVI4XLULXKv2c6WocK8037/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 12
+            <a
+              href="https://docs.google.com/presentation/d/1FdXBV8fDb1J_JTwOyERTOp7jg2pcCumG/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 13
+            <a
+              href="https://docs.google.com/presentation/d/1eyVfKqQVreDYhjNT_zYrUfYVK-zdoJKu/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 14
+            <a
+              href="https://docs.google.com/presentation/d/1eYjyIkTkhcBh2h6NOtly7qdq4_RV7vUM/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 15
+            <a
+              href="https://docs.google.com/presentation/d/1S_io2Nmryx1V4EwMg83jSwQOxm88ksIv/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 16
+            <a
+              href="https://docs.google.com/presentation/d/1CETO8sUXkVDmST2-dFoScPeB_nNV8MeS/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 17
+            <a
+              href="https://docs.google.com/presentation/d/1ncEwZa-3sFdTobY02p6mwdKKQbHvfgAl/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 18
+            <a
+              href="https://docs.google.com/presentation/d/14doA9R6kYEVpT9-fZMZudn44eA59eV01/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 19
+            <a
+              href="https://docs.google.com/presentation/d/1Wg8Yv3QIHa_6D_-hIDlMt4WnEDfA3tcs/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 21
+            <a
+              href="https://docs.google.com/presentation/d/1FTSFMKFnoWd1qoTtHNkGmXzWZWiFqnlL/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 22
+            <a
+              href="https://docs.google.com/presentation/d/1NCOEs8ZmsE7myCAcbvWkoW2oyO6rEyJ1/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 23
+            <a
+              href="https://docs.google.com/presentation/d/1NIYUbhWcUH3i6b5hQWaXjpesIuGFuExf/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 24
+            <a
+              href="https://docs.google.com/presentation/d/1LnVXR7kbKXoRLJjwCkq1ZXNIWLE9ABiY/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 25
+            <a
+              href="https://docs.google.com/presentation/d/1GzoYXOoLF3hIEr46V17kLKnZsw4qJJ5-/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 26
+            <a
+              href="https://docs.google.com/presentation/d/1xuBrFJQbv2YwMHTcFAaVfmZzEbqhwxpo/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 27
+            <a
+              href="https://docs.google.com/presentation/d/1u7WHa2ROmo1FFp8uAJ4zGMwX56RepPSs/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Aula 28
+            <a
+              href="https://docs.google.com/presentation/d/1kN7B8UFClWIQI6zgtNoGfQIMs4YiNwCO/edit?usp=sharing&ouid=117917823223915543509&rtpof=true&sd=true"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -342,7 +575,7 @@
           <li>
             Lista de problemas selecionados do volume 2 do Halliday
             <a
-              href="https://drive.google.com/file/d/1gFg1m_-2MOp1g0HLjrfYBU8uXpHpKIZw/view?usp=sharing"
+              href="https://drive.google.com/file/d/1aG2LC0Og8KRlodHTuofU8jh5pTCu8e4p/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
@@ -546,6 +779,46 @@
             Prova final - 2023.1
             <a
               href="https://drive.google.com/file/d/1pG89tOaUnUyJshOyvW1IqBjKs7GeygSE/view?usp=sharing"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Prova 01 - 2023.2
+            <a
+              href="https://drive.google.com/file/d/15LP2AxWR5laUp_gJUJEMOPWO1yHat_gB/view?usp=sharing"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Prova 02 - 2023.2
+            <a
+              href="https://drive.google.com/file/d/1x3xPkv9SEQNoTZSGHeJAod2nVa0_kUXg/view?usp=sharing"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+
+          <li>
+            Prova de segunda chamada - 2023.2
+            <a
+              href="https://drive.google.com/file/d/19Ala0uAUIUWd2zoFJDiYxuiL8Knvbols/view?usp=sharing"
+              target="_blank"
+              type="application/pdf"
+              >(pdf)</a
+            >
+          </li>
+          
+          <li>
+            Prova final - 2023.2
+            <a
+              href="https://drive.google.com/file/d/1r48ulKVK5xP0tM8w3wDjsIlvn6EPm7SS/view?usp=sharing"
               target="_blank"
               type="application/pdf"
               >(pdf)</a
