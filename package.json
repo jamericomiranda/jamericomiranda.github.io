@@ -1,4 +1,5 @@
 {
+  "homepage":"https://jamericomiranda.github.io/",
   "name": "jamerico-website",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +9,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://yourusername.github.io/your-repo-name",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
