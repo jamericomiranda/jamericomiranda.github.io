@@ -33,7 +33,7 @@ const AboutPage = () => {
             <li>
               <img src={lattes} />{" "}
               <Link target="_blank" to="http://lattes.cnpq.br/8130945956393751">
-                Currículo Lates
+                Currículo Lattes
               </Link>
             </li>
 
