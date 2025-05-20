@@ -18,7 +18,7 @@ const AboutPage = () => {
             <h1>José A. Miranda</h1>
             <p>
               José Américo de Miranda Neto é professor titular do Departamento
-              de Física da Universidade Federal de Pernambuco.
+              de Física da Universidade Federal de Pernambuco (UFPE).
             </p>
             <br />
             <br />
@@ -117,7 +117,7 @@ const AboutPage = () => {
         <br/>
         <br/>
         <p id="about-thanks">
-          Este site foi construído por Pedro Medeiros de Moraes e Habakuk Conrado.
+          Este site foi desenvolvido por Pedro Medeiros de Moraes e Habakuk Conrado.
         </p>
       </div>
     </main>

@@ -4,7 +4,7 @@ This project is the website of Professor José Américo Miranda. It was made ini
 
 ## 📸 Preview
 
-![Website Screenshot](./scr/assets/imgs/site_image.png)
+![Website Screenshot](src/assets/imgs/site_image.png)
 
 ## 🚀 Technologies Used
 
@@ -17,7 +17,7 @@ This project was built using:
 
 ```bash
 # Clone the repository
-git clone https://github.com/habakukc22/jamerico-website.git
+git clone https://github.com/jamericomiranda/jamericomiranda.github.io
 cd project-name
 
 # Install dependencies
