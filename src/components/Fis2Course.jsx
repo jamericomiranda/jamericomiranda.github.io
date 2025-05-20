@@ -161,7 +161,7 @@ const Fis2Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://drive.google.com/file/d/170pp_Qxyfmhu__jc4Rz3CITykmN6PyRU/view"
+                  href="https://drive.google.com/file/d/1QUiKXfP7TGufwoj8zV6fSwxR9l56n7jB/view"
                   target="_blank"
                   type="application/pdf"
                 >
