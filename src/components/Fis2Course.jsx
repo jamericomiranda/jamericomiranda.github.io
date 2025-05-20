@@ -161,11 +161,11 @@ const Fis2Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://drive.google.com/file/d/1KjWZuRMjWycriv3YAoIdbqtkltLTm858/view?usp=sharing"
+                  href="https://drive.google.com/file/d/170pp_Qxyfmhu__jc4Rz3CITykmN6PyRU/view"
                   target="_blank"
                   type="application/pdf"
                 >
-                  (pdf)
+                  (pptx)
                 </a>
               </li>
 
