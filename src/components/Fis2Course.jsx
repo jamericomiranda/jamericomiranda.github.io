@@ -161,11 +161,11 @@ const Fis2Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://drive.google.com/file/d/1QUiKXfP7TGufwoj8zV6fSwxR9l56n7jB/view"
+                  href="https://drive.google.com/file/d/1KjWZuRMjWycriv3YAoIdbqtkltLTm858/view"
                   target="_blank"
                   type="application/pdf"
                 >
-                  (pptx)
+                  (pdf)
                 </a>
               </li>
 
@@ -428,7 +428,7 @@ const Fis2Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://docs.google.com/presentation/d/1_UcALuVGiV-UX-eCRSawVsIBGjT3kvsR/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1QUiKXfP7TGufwoj8zV6fSwxR9l56n7jB/view"
                   target="_blank"
                   type="application/pdf"
                 >
