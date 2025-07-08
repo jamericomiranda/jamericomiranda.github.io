@@ -580,6 +580,17 @@ const Fis2Course = () => {
               </li>
 
               <li>
+                Aula 20
+                <a
+                  href="https://drive.google.com/file/d/18T48oa6InO8Yzx0biIK0jhkI-drPVq0N/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+
+              <li>
                 Aula 21
                 <a
                   href="https://docs.google.com/presentation/d/1FTSFMKFnoWd1qoTtHNkGmXzWZWiFqnlL/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
