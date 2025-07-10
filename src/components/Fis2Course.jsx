@@ -560,7 +560,7 @@ const Fis2Course = () => {
               <li>
                 Aula 18
                 <a
-                  href="https://docs.google.com/presentation/d/14doA9R6kYEVpT9-fZMZudn44eA59eV01/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/15_wcHWdF4uOY4x3Rpha4da5A_zMrHNQ0/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -571,7 +571,7 @@ const Fis2Course = () => {
               <li>
                 Aula 19
                 <a
-                  href="https://docs.google.com/presentation/d/1Wg8Yv3QIHa_6D_-hIDlMt4WnEDfA3tcs/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1ipO6XFDAPIlKHAJsQsd4ndFsMpvn6Bxq/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -582,7 +582,7 @@ const Fis2Course = () => {
               <li>
                 Aula 20
                 <a
-                  href="https://drive.google.com/file/d/18T48oa6InO8Yzx0biIK0jhkI-drPVq0N/view"
+                  href="https://drive.google.com/file/d/12MU_wvmWELIU_-dT6vldZURcTNCMT35w/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -593,7 +593,7 @@ const Fis2Course = () => {
               <li>
                 Aula 21
                 <a
-                  href="https://docs.google.com/presentation/d/1FTSFMKFnoWd1qoTtHNkGmXzWZWiFqnlL/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1wp7I62_soqkoEOZeokBprtScU83kbdi7/view"
                   target="_blank"
                   type="application/pdf"
                 >
