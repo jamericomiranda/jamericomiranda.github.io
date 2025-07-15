@@ -604,7 +604,7 @@ const Fis2Course = () => {
               <li>
                 Aula 22
                 <a
-                  href="https://docs.google.com/presentation/d/1NCOEs8ZmsE7myCAcbvWkoW2oyO6rEyJ1/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1CLMWSS1QqKSCfpZ2UvM2aHUqOwd1ndu8/view"
                   target="_blank"
                   type="application/pdf"
                 >
