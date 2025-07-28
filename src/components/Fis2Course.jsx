@@ -428,7 +428,7 @@ const Fis2Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://drive.google.com/file/d/1QUiKXfP7TGufwoj8zV6fSwxR9l56n7jB/view"
+                  href="https://drive.google.com/file/d/1R7mWClgDxN0eWHhjxfd4RcNfPCNbNFfW/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -626,7 +626,7 @@ const Fis2Course = () => {
               <li>
                 Aula 24
                 <a
-                  href="https://drive.google.com/file/d/1zajMGGINj5SudqIBhLmfc5srizp7Fb2y/view"
+                  href="https://drive.google.com/file/d/1Y5980QGoc8M3cvcApNk5FAeduaiGebP6/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -637,7 +637,7 @@ const Fis2Course = () => {
               <li>
                 Aula 25
                 <a
-                  href="https://drive.google.com/file/d/1Rx4UGv8WIRM3d3bMskZ7vVzPKiFBJ0FQ/view"
+                  href="https://drive.google.com/file/d/19NYr9TxWUTQKJVFXtqWEvzp9VLRbsAKj/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -648,7 +648,7 @@ const Fis2Course = () => {
               <li>
                 Aula 26
                 <a
-                  href="https://docs.google.com/presentation/d/1xuBrFJQbv2YwMHTcFAaVfmZzEbqhwxpo/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1oCznSvGAjkQjycVR_OhW9a2rEpGSx-m8/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -659,7 +659,7 @@ const Fis2Course = () => {
               <li>
                 Aula 27
                 <a
-                  href="https://docs.google.com/presentation/d/1u7WHa2ROmo1FFp8uAJ4zGMwX56RepPSs/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/17FqaSlra5MBMF6bJ2VrixCfo07JokAvl/view"
                   target="_blank"
                   type="application/pdf"
                 >
