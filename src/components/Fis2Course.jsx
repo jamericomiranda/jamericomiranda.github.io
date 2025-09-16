@@ -426,6 +426,28 @@ const Fis2Course = () => {
               </li>
 
               <li>
+                Aula 04
+                <a
+                  href="https://drive.google.com/file/d/1GpRFIYFLDuKPN0OSpgjawe4KsUF6A3i0/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+
+              <li>
+                Aula 05
+                <a
+                  href="https://drive.google.com/file/d/1uavlJPb6zwC4hA92lD58W-8zWn2CCvD_/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+
+              <li>
                 Aula 06
                 <a
                   href="https://drive.google.com/file/d/1R7mWClgDxN0eWHhjxfd4RcNfPCNbNFfW/view"
