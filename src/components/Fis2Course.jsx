@@ -494,7 +494,7 @@ const Fis2Course = () => {
               <li>
                 Aula 10
                 <a
-                  href="https://docs.google.com/presentation/d/1uf413XRcipV5bqX_EDy0-RMtcMGhsltl/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1ObRS2_-ERBcHszPf-_5wXLqLFwYK1khI/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -505,7 +505,7 @@ const Fis2Course = () => {
               <li>
                 Aula 11
                 <a
-                  href="https://docs.google.com/presentation/d/1WykJ7pTc59RVI4XLULXKv2c6WocK8037/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1TtZvRu-eYG5pnAlv294SzIQq4HOfozSL/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -516,7 +516,7 @@ const Fis2Course = () => {
               <li>
                 Aula 12
                 <a
-                  href="https://docs.google.com/presentation/d/1FdXBV8fDb1J_JTwOyERTOp7jg2pcCumG/edit?usp=sharing&amp;ouid=117917823223915543509&amp;rtpof=true&amp;sd=true"
+                  href="https://drive.google.com/file/d/1BYvpfR6HuVs2OAGAvvyNYvWcDn7tbnp6/view"
                   target="_blank"
                   type="application/pdf"
                 >
