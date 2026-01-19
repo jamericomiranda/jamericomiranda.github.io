@@ -11,6 +11,15 @@ const HomePage = () => {
             <li>
               {/* <span className="post-meta">Apr 16, 2024</span> */}
               <h3>
+                <Link className="post-link" to="/course/fis1">
+                  <SiBookstack /> Física Geral 1
+                </Link>
+              </h3>
+            </li>
+
+            <li>
+              {/* <span className="post-meta">Apr 16, 2024</span> */}
+              <h3>
                 <Link className="post-link" to="/course/fis2">
                   <SiBookstack /> Física Geral 2
                 </Link>

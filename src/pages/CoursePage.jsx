@@ -6,6 +6,7 @@ import "./CoursePage.css";
 import Fis3Course from "../components/Fis3Course";
 import Fis2Course from "../components/Fis2Course";
 import Fis4Course from "../components/Fis4Course";
+import Fis1Course from "../components/Fis1Course";
 
 const CoursePage = () => {
   const { id } = useParams();
@@ -21,6 +22,8 @@ const CoursePage = () => {
     course = <Fis2Course />;
   } else if (id == "fis4") {
     course = <Fis4Course />;
+    } else if (id == "fis1") {
+    course = <Fis1Course />;
   } else {
     course = <NotFound />;
   }
