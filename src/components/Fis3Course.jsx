@@ -1178,7 +1178,17 @@ const Fis3Course = () => {
               <li>
                 Aula 19
                 <a
-                  href="https://drive.google.com/file/d/1OFJL1l7OKdTKsRpvdSsiHhuUtZbx1uOi/view"
+                  href="https://drive.google.com/file/d/1PRbFzh_G6R4IsIHKdRVzdzHX0jnek0wC/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 20
+                <a
+                  href="https://drive.google.com/file/d/1W6jf-JpjpNK5iTNO7eXdFs8kXyvcInkA/view"
                   target="_blank"
                   type="application/pdf"
                 >
