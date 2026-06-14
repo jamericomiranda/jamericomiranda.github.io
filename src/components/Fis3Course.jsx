@@ -1228,7 +1228,7 @@ const Fis3Course = () => {
               <li>
                 Aula 24
                 <a
-                  href="https://drive.google.com/file/d/1hfKpXo3htm9McigV90P6rmLUbaMU4-Fg/view"
+                  href="https://drive.google.com/file/d/1MfbLvqW48fGw6A-62DGd9GtBQJMAbISE/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -1238,7 +1238,7 @@ const Fis3Course = () => {
               <li>
                 Aula 25
                 <a
-                  href="https://drive.google.com/file/d/1MWliy1UAf6lT9F3iueZNa0jo4-uO2zJV/view"
+                  href="https://drive.google.com/file/d/1AwI3RL6mQbjRy7o8ysNwTaxj3xglpgwo/view"
                   target="_blank"
                   type="application/pdf"
                 >
