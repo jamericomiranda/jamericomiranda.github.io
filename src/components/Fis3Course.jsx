@@ -389,6 +389,251 @@ const Fis3Course = () => {
               </li>
             </ul>
 
+            <li>Slides PowerPoint das aulas</li>
+            <ul>
+             
+              <li>
+                Aula 01
+                <a
+                  href="https://drive.google.com/file/d/1wXwmSlqnebn-mjTYBtRdR_oZLvEnrkPJ/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 02
+                <a
+                  href="https://drive.google.com/file/d/18CjaO9_M0A2bRycOmdupLoML_Aq7-NSb/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+               <li>
+                Aula 03
+                <a
+                  href="https://drive.google.com/file/d/1cLepp_zXLp0Lm--2n7Vj1X_dcnnYXSYP/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 04
+                <a
+                  href="https://drive.google.com/file/d/1eLSVNaBztfOps9padQH0I1qFXPGOOu06/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 05
+                <a
+                  href="https://drive.google.com/file/d/1LMC08OrqZMq3s1V6e9a40ssi4nBMQIO7/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 07
+                <a
+                  href="https://drive.google.com/file/d/1WASc95EAQaAnVJdSG2ZeAEeVGyZ0lVNP/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 08
+                <a
+                  href="https://drive.google.com/file/d/15n4em_3ClJzv9zJBgtYpk-BIKRBJ9YFk/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 09
+                <a
+                  href="https://drive.google.com/file/d/1vu8NpduPNtzvMeXP0Pf7zSVaSkiEMy2l/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 10
+                <a
+                  href="https://drive.google.com/file/d/11GnHFi2XJT6x_FNahOPCr7DMaE593MJn/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 11
+                <a
+                  href="https://drive.google.com/file/d/1s6hJc-sW41flZpm94_te49Rp-6lbUF2p/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 13
+                <a
+                  href="https://drive.google.com/file/d/1IJM6nBUSUoetXbSOr3Wuxd3Glz4In42e/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 14
+                <a
+                  href="https://drive.google.com/file/d/15fOXKWlTOcaSuP38S58yLmPuzx9HV2EG/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 15
+                <a
+                  href="https://drive.google.com/file/d/1IAfQWZZsBhMtiyGjzAxj-AKU33tfPcQw/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 16
+                <a
+                  href="https://drive.google.com/file/d/1LBiCX9kZgppdash0OUc6pCILsFihCuPm/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 17
+                <a
+                  href="https://drive.google.com/file/d/11QAcygFaQuLdPUXZeC2LkkxUsovDbA5E/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 18
+                <a
+                  href="https://drive.google.com/file/d/11LaGSvmZPugA3MBMd-K7j_iFZLLjNxrH/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 19
+                <a
+                  href="https://drive.google.com/file/d/1PRbFzh_G6R4IsIHKdRVzdzHX0jnek0wC/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 20
+                <a
+                  href="https://drive.google.com/file/d/1W6jf-JpjpNK5iTNO7eXdFs8kXyvcInkA/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 21
+                <a
+                  href="https://drive.google.com/file/d/1dqRKmFXIBE9sfPTs506oLYDBH2-mZuI-/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 22
+                <a
+                  href="https://drive.google.com/file/d/1ptmjnFrKM4v7K0pFF0O1gTRw9z8z0KE2/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 23
+                <a
+                  href="https://drive.google.com/file/d/1zSZayzRxxPoG9Mlpcv_CPSK8IftG5CIj/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 24
+                <a
+                  href="https://drive.google.com/file/d/1MfbLvqW48fGw6A-62DGd9GtBQJMAbISE/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 25
+                <a
+                  href="https://drive.google.com/file/d/1AwI3RL6mQbjRy7o8ysNwTaxj3xglpgwo/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+              <li>
+                Aula 26
+                <a
+                  href="https://drive.google.com/file/d/1O1tFFKMyFH3fTxuzGdwm5yt1zHjBqT5Y/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
+              </li>
+            </ul>
+          
             <li>Lista de problemas</li>
             <ul>
               <li>
@@ -420,6 +665,17 @@ const Fis3Course = () => {
                 Problemas resolvidos de Física 3 - Versão 2
                 <a
                   href="https://drive.google.com/file/d/1boqQ4zDW41ZcV0QWOp0qjPeyShP9LGgL/view?usp=sharing"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
+
+               <li>
+                Problemas Extras
+                <a
+                  href="https://drive.google.com/file/d/1I5xjwiMgc2CmxIcnYkKK0b2o_cIlYaD-/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -1003,259 +1259,6 @@ const Fis3Course = () => {
               </li>
             </ul>
 
-            <li>Material Extra - Mais problemas e slides das aulas</li>
-            <ul>
-              <li>
-                Problemas Extras
-                <a
-                  href="https://drive.google.com/file/d/1I5xjwiMgc2CmxIcnYkKK0b2o_cIlYaD-/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pdf)
-                </a>
-              </li>
-              <li>
-                Aula 01
-                <a
-                  href="https://drive.google.com/file/d/1wXwmSlqnebn-mjTYBtRdR_oZLvEnrkPJ/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 02
-                <a
-                  href="https://drive.google.com/file/d/18CjaO9_M0A2bRycOmdupLoML_Aq7-NSb/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-               <li>
-                Aula 03
-                <a
-                  href="https://drive.google.com/file/d/1cLepp_zXLp0Lm--2n7Vj1X_dcnnYXSYP/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 04
-                <a
-                  href="https://drive.google.com/file/d/1eLSVNaBztfOps9padQH0I1qFXPGOOu06/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 05
-                <a
-                  href="https://drive.google.com/file/d/1LMC08OrqZMq3s1V6e9a40ssi4nBMQIO7/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 07
-                <a
-                  href="https://drive.google.com/file/d/1WASc95EAQaAnVJdSG2ZeAEeVGyZ0lVNP/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 08
-                <a
-                  href="https://drive.google.com/file/d/15n4em_3ClJzv9zJBgtYpk-BIKRBJ9YFk/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 09
-                <a
-                  href="https://drive.google.com/file/d/1vu8NpduPNtzvMeXP0Pf7zSVaSkiEMy2l/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 10
-                <a
-                  href="https://drive.google.com/file/d/11GnHFi2XJT6x_FNahOPCr7DMaE593MJn/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 11
-                <a
-                  href="https://drive.google.com/file/d/1s6hJc-sW41flZpm94_te49Rp-6lbUF2p/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 13
-                <a
-                  href="https://drive.google.com/file/d/1IJM6nBUSUoetXbSOr3Wuxd3Glz4In42e/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 14
-                <a
-                  href="https://drive.google.com/file/d/15fOXKWlTOcaSuP38S58yLmPuzx9HV2EG/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 15
-                <a
-                  href="https://drive.google.com/file/d/1IAfQWZZsBhMtiyGjzAxj-AKU33tfPcQw/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 16
-                <a
-                  href="https://drive.google.com/file/d/1LBiCX9kZgppdash0OUc6pCILsFihCuPm/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 17
-                <a
-                  href="https://drive.google.com/file/d/11QAcygFaQuLdPUXZeC2LkkxUsovDbA5E/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 18
-                <a
-                  href="https://drive.google.com/file/d/11LaGSvmZPugA3MBMd-K7j_iFZLLjNxrH/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 19
-                <a
-                  href="https://drive.google.com/file/d/1PRbFzh_G6R4IsIHKdRVzdzHX0jnek0wC/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 20
-                <a
-                  href="https://drive.google.com/file/d/1W6jf-JpjpNK5iTNO7eXdFs8kXyvcInkA/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 21
-                <a
-                  href="https://drive.google.com/file/d/1dqRKmFXIBE9sfPTs506oLYDBH2-mZuI-/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 22
-                <a
-                  href="https://drive.google.com/file/d/1ptmjnFrKM4v7K0pFF0O1gTRw9z8z0KE2/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 23
-                <a
-                  href="https://drive.google.com/file/d/1zSZayzRxxPoG9Mlpcv_CPSK8IftG5CIj/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 24
-                <a
-                  href="https://drive.google.com/file/d/1MfbLvqW48fGw6A-62DGd9GtBQJMAbISE/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 25
-                <a
-                  href="https://drive.google.com/file/d/1AwI3RL6mQbjRy7o8ysNwTaxj3xglpgwo/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-              <li>
-                Aula 26
-                <a
-                  href="https://drive.google.com/file/d/1O1tFFKMyFH3fTxuzGdwm5yt1zHjBqT5Y/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  (pptx)
-                </a>
-              </li>
-            </ul>
           </ul>
         </section>
       </div>
