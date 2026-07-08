@@ -1257,6 +1257,62 @@ const Fis3Course = () => {
                   (pdf)
                 </a>
               </li>
+
+              
+              <li>
+                Prova 01 - 2026.1
+                <a
+                  href="https://drive.google.com/file/d/1k0wrQiGUSZZpe15UuTuu9lSJUSRUfEvW/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
+
+              <li>
+                Prova 02 - 2026.1
+                <a
+                  href="https://drive.google.com/file/d/1oe8pSurC4vtpDQ98gUNFhmL1KEFCMZ-I/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
+
+              <li>
+                Prova 03 - 2026.1
+                <a
+                  href="https://drive.google.com/file/d/1lg35hYXqIMY_27mvJuoMAltBhWBeLiO9/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
+
+              <li>
+                Prova de segunda chamada - 2026.1
+                <a
+                  href="https://drive.google.com/file/d/1I21V-OME3wEXOxqDurFvSDwjEEZJyHEr/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
+
+              <li>
+                Prova final - 2026.1
+                <a
+                  href="https://drive.google.com/file/d/1T671UhfW-S3776WBIIVGk6nC9AbmA2CG/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pdf)
+                </a>
+              </li>
             </ul>
 
           </ul>
