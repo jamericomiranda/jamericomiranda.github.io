@@ -80,8 +80,7 @@ const Fis4Course = () => {
         <section className="list">
           <h3>Curso de Física Geral 4</h3>
           <ul>
-            <li>
-              Cronograma do curso
+            <li>Cronograma do curso
               <a
                 href="https://drive.google.com/file/d/14rr0ri-NisHbGZK2MQbeMvtANKg_Z3lv/view"
                 target="_blank"
@@ -90,8 +89,8 @@ const Fis4Course = () => {
                 (pdf)
               </a>
             </li>
-            <li>
-              Bibliografia complementar
+
+            <li>Bibliografia complementar
               <a
                 href="https://drive.google.com/file/d/1EqJmIE715fsKn5F6KO5zR_UwcScuDJPu/view"
                 target="_blank"
@@ -100,20 +99,26 @@ const Fis4Course = () => {
                 (pdf)
               </a>
             </li>
+
             <li>Notas de Aula</li>
             <ul>
-              <li>
-                Aula 01
+              <li>Aula 01 
                 <a
                   href="https://drive.google.com/file/d/1DNYFATWsZ9e5A2tYhuS2OG-ZMCN7ogte/view"
                   target="_blank"
                   type="application/pdf"
                 >
-                  (pdf)
+                  (pdf) 
+                </a>
+                <a
+                  href="https://drive.google.com/file/d/16QtKkm1MtmJ2nHyUCBFJNr43Sb6A88Xs/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx) 
                 </a>
               </li>
-              <li>
-                Aula 02
+              <li>Aula 02 
                 <a
                   href="https://drive.google.com/file/d/1nPcBk0glIasiQEhwNVZFKVWDyuwtrbnI/view"
                   target="_blank"
@@ -122,7 +127,7 @@ const Fis4Course = () => {
                   (pdf)
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1OAg5M6xlU1nyIHboJPDhLwQv-MnvBtej/view"
+                  href="https://drive.google.com/file/d/1uS9iQkU8JNti9Kntp6_JnIiNpka4mvdy/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -139,7 +144,7 @@ const Fis4Course = () => {
                   (pdf)
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1TkDWC-26XlggAaj8TNk3PQ8zO2-iXsu0/view"
+                  href="https://drive.google.com/file/d/1m9DVXpPr4l-KmU9YGQcu3gTujs-eNPVs/view"
                   target="_blank"
                   type="application/pdf"
                 >
