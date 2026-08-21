@@ -160,11 +160,18 @@ const Fis4Course = () => {
                 >
                   (pdf)
                 </a>
+                <a
+                  href="https://drive.google.com/file/d/1lvIpsuSZ6AIRBMxaWdOb8qzt2JckWhbK/view"
+                  target="_blank"
+                  type="application/pdf"
+                >
+                  (pptx)
+                </a>
               </li>
               <li>
                 Aula 05
                 <a
-                  href="https://drive.google.com/file/d/10pCQpJ4dA6UX_8zZ6wvy1P53PIUNwLz5/view"
+                  href="https://drive.google.com/file/d/10eJxD3-saVJeCZd7ArmselQtsnSatbh5/view"
                   target="_blank"
                   type="application/pdf"
                 >
