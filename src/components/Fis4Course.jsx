@@ -181,7 +181,7 @@ const Fis4Course = () => {
               <li>
                 Aula 06
                 <a
-                  href="https://drive.google.com/file/d/1TRFQHVU4cGW25NriBxUPk5krJbpLpuo6/view"
+                  href="https://drive.google.com/file/d/1GTMcXrAwAmwKWQNE13DeOE2FVCSdRnJ3/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -218,7 +218,7 @@ const Fis4Course = () => {
               <li>
                 Aula 09
                 <a
-                  href="https://drive.google.com/file/d/1SQSi1Gesi-OpMQZDnGtghK40zQv3KX4f/view"
+                  href="https://drive.google.com/file/d/1DNfbRC1aOpVZ7LuefrhUai2DB_sILb1W/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -228,28 +228,12 @@ const Fis4Course = () => {
               <li>
                 Aula 10
                 <a
-                  href="https://drive.google.com/file/d/1J-KdjEwQB9HX2WS5GIeFhAn0FTdmAeHU/view"
+                  href="https://drive.google.com/file/d/1JF108nXRqoCwbtQ0iLM6B0Ju-dLuyY7p/view"
                   target="_blank"
                   type="application/pdf"
                 >
                   {" "}
                   (pptx)
-                </a>
-                <a
-                  href="https://drive.google.com/file/d/1f2Z0ax59EH-5HbSMtCOnf1RWnr3HJX47/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  {" "}
-                  (Problemas extras - pdf)
-                </a>
-                <a
-                  href="https://drive.google.com/file/d/1Y53TfHz9hbVNd6NimlAf-ssKn0d3s1Jl/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  {" "}
-                  (página extra - pptx)
                 </a>
               </li>
               <li>
