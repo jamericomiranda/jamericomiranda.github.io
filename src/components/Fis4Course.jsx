@@ -191,7 +191,7 @@ const Fis4Course = () => {
               <li>
                 Aula 07
                 <a
-                  href="https://drive.google.com/file/d/1yZntu2dsWbEG07uhs_aIcxvqIEHFqXqi/view"
+                  href="https://drive.google.com/file/d/1VqK0n07qiolfC4Q66H8kJs-QWYWolykE/view"
                   target="_blank"
                   type="application/pdf"
                 >
