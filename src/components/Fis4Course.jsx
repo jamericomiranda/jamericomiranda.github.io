@@ -305,7 +305,7 @@ const Fis4Course = () => {
               <li>
                 Aula 17
                 <a
-                  href="https://drive.google.com/file/d/1BL83awdxFbWP-qboob-W_Vy_bWo_nmyO/view"
+                  href="https://drive.google.com/file/d/1EqG9M4QENb5_2yF-RK4SloAuXHZmcVX5/view"
                   target="_blank"
                   type="application/pdf"
                 >
@@ -316,7 +316,7 @@ const Fis4Course = () => {
               <li>
                 Aula 18
                 <a
-                  href="https://drive.google.com/file/d/15q9Rdw-q2dkBDKbi0ep2GBRhkGCj4bVt/view"
+                  href="https://drive.google.com/file/d/1OAZL48XSX-7A04GiOCQDm5sNCNt54nDj/view"
                   target="_blank"
                   type="application/pdf"
                 >
