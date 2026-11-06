@@ -345,14 +345,6 @@ const Fis4Course = () => {
                   {" "}
                   (pptx)
                 </a>
-                <a
-                  href="https://drive.google.com/file/d/1cDuFWIJYxrTd0BadMsVKM6qpmi0w1A0H/view"
-                  target="_blank"
-                  type="application/pdf"
-                >
-                  {" "}
-                  (problemas - pdf)
-                </a>
               </li>
               <li>
                 Aula 21
