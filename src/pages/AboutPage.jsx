@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
 import photo from "../assets/imgs/photo_americo.png";
 import logo from "../assets/imgs/ufpe_logo1.jpg";
-import lattes from "../assets/imgs/fav_ico_lattes.png";
+// import lattes from "../assets/imgs/fav_ico_lattes.png";
+import lattes from "../assets/imgs/logo-nova-lattes.png";
 import { FaOrcid } from "react-icons/fa";
 import { FaGoogleScholar } from "react-icons/fa6";
 import { GiMaterialsScience } from "react-icons/gi";
@@ -31,8 +32,8 @@ const AboutPage = () => {
           <span className="links-title">Links:</span>
           <ul>
             <li>
-              <img src={lattes} />{" "}
-              <Link target="_blank" to="http://lattes.cnpq.br/8130945956393751">
+              <img src={lattes} width={20} />{" "}
+              <Link target="_blank" to="https://busca-cv-lattes.cnpq.br/curriculo/8130945956393751">
                 Currículo Lattes
               </Link>
             </li>
